@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  my-nginx:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-05-19T13:08:37.753894303+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 02ac1cf26f83aba7aaba3c35d7aea57db6a03a2e4deecde3666f0e3fc2b974d2
+    name: my-nginx
+    type: application
+    urls:
+    - https://damoco.github.io/helm-charts/my-nginx/my-nginx-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-05-19T13:08:37.753044099+05:30"
